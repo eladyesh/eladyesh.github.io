@@ -14,7 +14,7 @@ timezone: Asia/Jerusalem
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: elad's blog # the main title
+title: elad's tech blog # the main title
 
 tagline: # it will display as the sub-title
 
@@ -29,7 +29,7 @@ github:
   username: eladyesh # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: eladyesh96 # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +38,11 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/eladyesh # change to your twitter homepage
     - https://github.com/eladyesh # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/elad-yeshayahou-648b30194/
 
 google_site_verification: # fill in to your verification string
 
